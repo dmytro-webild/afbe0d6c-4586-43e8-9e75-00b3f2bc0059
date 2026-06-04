@@ -60,8 +60,8 @@ export default function LandingPage() {
           title="Unsere Klassiker & Spezialitäten"
           description="Von traditionellem Milcheis bis zu exotischen Sorbets – handgemacht mit Liebe und den besten Zutaten."
           products={[
-            { id: "spaghettieis-gross", name: "Spaghettieis Groß", price: "6,90 €", imageSrc: "http://img.b2bpic.net/free-photo/vanilla-flavored-sweet-roll-decorated-with-sprinkles-white-plate_114579-66469.jpg", imageAlt: "Große Portion Spaghettieis mit Erdbeersoße und Sahne" },
-            { id: "spaghettieis-klein", name: "Spaghettieis Klein", price: "5,50 €", imageSrc: "http://img.b2bpic.net/free-photo/vanilla-flavored-sweet-roll-decorated-with-sprinkles-white-plate_114579-66469.jpg", imageAlt: "Kleine Portion Spaghettieis mit Erdbeersoße und Sahne" },
+            { id: "spaghettieis-gross", name: "Spaghettieis Groß", price: "6,90 €", imageSrc: "http://img.b2bpic.net/free-photo/vanilla-flavored-sweet-roll-decorated-with-sprinkles-white-plate_114579-66469.jpg?_wi=1", imageAlt: "Große Portion Spaghettieis mit Erdbeersoße und Sahne" },
+            { id: "spaghettieis-klein", name: "Spaghettieis Klein", price: "5,50 €", imageSrc: "http://img.b2bpic.net/free-photo/vanilla-flavored-sweet-roll-decorated-with-sprinkles-white-plate_114579-66469.jpg?_wi=2", imageAlt: "Kleine Portion Spaghettieis mit Erdbeersoße und Sahne" },
             { id: "milcheis-vanille", name: "Milcheis Vanille", price: "2,30 € / Kugel", imageSrc: "http://img.b2bpic.net/free-photo/summer-dessert-ice-cream-ice-cream-with-coconut_185193-110739.jpg", imageAlt: "Kugel Vanille-Milcheis" },
             { id: "milcheis-schokolade", name: "Milcheis Schokolade", price: "2,30 € / Kugel", imageSrc: "http://img.b2bpic.net/free-photo/top-view-delicious-ice-cream-cookies_23-2149681869.jpg", imageAlt: "Kugel Schokolade-Milcheis" },
             { id: "milcheis-stracciatella", name: "Milcheis Stracciatella", price: "2,30 € / Kugel", imageSrc: "http://img.b2bpic.net/free-photo/close-up-ice-cream-sorbet-with-berries_23-2148425340.jpg", imageAlt: "Kugel Stracciatella-Milcheis" },
